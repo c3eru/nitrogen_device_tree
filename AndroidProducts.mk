@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nitrogen_juice.mk
+    $(LOCAL_DIR)/syberia_juice.mk
 
 COMMON_LUNCH_CHOICES := \
-    nitrogen_juice-user \
-    nitrogen_juice-userdebug \
-    nitrogen_juice-eng
+    syberia_juice-user \
+    syberia_juice-userdebug \
+    syberia_juice-eng
